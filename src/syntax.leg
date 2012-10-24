@@ -1,3 +1,4 @@
+# see http://piumarta.com/software/peg/peg.1.html for help with the syntax
 %{
 #include "bstrlib.h"
 #include "list.h"
